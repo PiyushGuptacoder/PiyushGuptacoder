@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there ,Welcome 👋
+ I am currently learning the Web Dev , AIML
+ I am  student of Btech in CSIT.
+ You can reach me : guptapiyush25011@gmail.com
 <!--
 **PiyushGuptacoder/PiyushGuptacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
